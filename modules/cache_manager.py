@@ -5,9 +5,6 @@ from typing import Any, Dict, Optional
 class CacheManager:
     """
     Simple in-memory cache with TTL.
-
-    In production, you'd likely replace this with Redis or another
-    persistence layer, but for the assignment this is enough.
     """
 
     def __init__(self) -> None:
