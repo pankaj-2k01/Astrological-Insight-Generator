@@ -23,7 +23,6 @@ astrological-insight-generator/
 ├── requirements.txt
 ├── README.md
 ├── DESIGN_WRITEUP.md
-├── test_examples.sh       # Optional helper script to test API & CLI
 └── modules/
     ├── __init__.py
     ├── models.py          # Pydantic models for request/response
